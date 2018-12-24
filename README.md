@@ -2,5 +2,6 @@
 
 hello world 
 
-play with "the hacker playbook 3: red team"
+different cours et chemin pour apprendre les mysteres et la magie des bits, réseaux et autres...
+
 
