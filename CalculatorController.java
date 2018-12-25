@@ -19,5 +19,7 @@ public class CalculatorController {
     public int multiply(@RequestParam int first, int second){
         return first*second;
     }
+    
+    // pour utiliser un String au lieu du int pour le renvoie au navigateur, on peut utiliser l'objet Integer.toString(first+/*second); 
 
 }
